@@ -105,7 +105,17 @@ namespace FileExplorer
             {
                 String tmp_Fullpath = list_View1.SelectedItem.ToString();
                 //FileInfo fi = new FileInfo(tmp_Fullpath);
-                System.Diagnostics.Process.Start(tmp_Fullpath);
+                try
+                {
+                    System.Diagnostics.Process.Start(tmp_Fullpath);
+                }
+                catch (System.ComponentModel.Win32Exception)
+                {
+                    System.Windows.MessageBox.Show("Операция была отменена пользователем");                    
+                }
+
+                }
+                
             }
         }
     }
@@ -143,4 +153,4 @@ namespace FileExplorer
         //... Logic to populate the images
     }
 
-}
+

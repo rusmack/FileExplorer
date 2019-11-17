@@ -1,0 +1,15 @@
+C:\Users\RMDne\source\repos\FileExplorer\bin\Release\FileExplorer.exe.config
+C:\Users\RMDne\source\repos\FileExplorer\bin\Release\FileExplorer.exe
+C:\Users\RMDne\source\repos\FileExplorer\bin\Release\FileExplorer.pdb
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\FileExplorer.csprojAssemblyReference.cache
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\MainWindow.g.cs
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\App.g.cs
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\FileExplorer_MarkupCompile.cache
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\FileExplorer_MarkupCompile.lref
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\MainWindow.baml
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\FileExplorer.g.resources
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\FileExplorer.Properties.Resources.resources
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\FileExplorer.csproj.GenerateResource.cache
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\FileExplorer.exe
+C:\Users\RMDne\source\repos\FileExplorer\obj\Release\FileExplorer.pdb
